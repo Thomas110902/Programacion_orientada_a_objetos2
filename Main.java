@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args){
 
+
         //Usuario
         Usuario usuario1 = new Usuario("Eduardo", "Luis", 16, 2009);
         Usuario usuario2 = new Usuario("Stephany", "Jimenez", 15, 2009);

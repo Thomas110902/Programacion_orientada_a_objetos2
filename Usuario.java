@@ -14,7 +14,7 @@ public class Usuario {
         this.AñoN = AñoN;
     
     }
-    //Metodo get
+    //Metodo get solo para ver el contenido 
     public int getEdad(){
         return this.edad;
     }
@@ -27,7 +27,7 @@ public class Usuario {
     public int getAñoNa(){
         return this.AñoN;
     }
-    //Metodo sets
+    //Metodo sets es para editar o cambiar
 
     public void setNombre(String nombre){
         this.nombre = nombre;
